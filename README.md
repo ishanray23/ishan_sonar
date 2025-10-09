@@ -19,3 +19,5 @@ Adjust the COM port in the Processing code ("COM3") to match your system.
 The sweep range can be modified in the Arduino code.
 Ensure the servo and sensor share a common ground.
 You can tweak the delay or drawing speed for smoother performance.
+
+Disclaimer: Parts of this project were assisted by AI tools
